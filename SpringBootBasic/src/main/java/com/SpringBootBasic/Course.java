@@ -34,6 +34,6 @@ public class Course {
 	}
 	
 	public void printCourse() {
-		System.out.println("Inside Course.....");
+		System.out.println("Inside Course");
 	}
 }
